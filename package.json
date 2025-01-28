@@ -1,0 +1,15 @@
+{
+  "name": "trab_final_seguranca_de_info_dupla_talita_e_joao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "criptografia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Talita e João",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
